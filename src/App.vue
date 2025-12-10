@@ -112,6 +112,7 @@ export default {
 
 <style>
 body {
+  background-color: pink;
   background-size: cover;
   background-position: center;
   background-attachment: fixed; /* Keeps the background in place when scrolling */
