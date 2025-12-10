@@ -112,7 +112,6 @@ export default {
 
 <style>
 body {
-  background-image: url("@/assets/algonquin.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed; /* Keeps the background in place when scrolling */
